@@ -1,0 +1,36 @@
+body{
+    background-image: url("./back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+  
+}
+.position{
+  margin-top: 10rem;
+ 
+
+}
+.title{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    border-color: black;
+    border-top-width: 3px;
+  
+}
+.day{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+   
+}
+
+.clock{
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+   
+}
+
